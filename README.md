@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BattuNagaManikanta
 - 👀 I’m interested in learning software development stuff
 - 🌱 I’m currently learning MERN stack
-- 📫 How to reach me through mail: maniking22000@gmail.com
-- 😄 Pronouns: Mani
+- 📫 you to reach me through mail: maniking22000@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: we can die but the code we wrote won't die
 
 <!---
